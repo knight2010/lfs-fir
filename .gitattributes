@@ -1,5 +1,4 @@
 Frameworks/FiksuSDK.embeddedframework filter=lfs diff=lfs merge=lfs -text
-Frameworks/GoogleToolbox filter=lfs diff=lfs merge=lfs -text
 Frameworks/HBHandlebars.framework filter=lfs diff=lfs merge=lfs -text
 Frameworks/KIF filter=lfs diff=lfs merge=lfs -text
 Frameworks/PebbleKit.framework filter=lfs diff=lfs merge=lfs -text
